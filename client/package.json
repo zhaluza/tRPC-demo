@@ -1,0 +1,12 @@
+{
+  "name": "trpc-client",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@trpc/client": "^10.37.1",
+    "undici": "^5.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.16"
+  }
+}
